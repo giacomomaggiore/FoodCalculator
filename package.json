@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "UI LINK TO FIGMA\r https://www.figma.com/file/ZcVhr9ID9GovrZPE31OqrR/UI?node-id=101%3A463&frame-preset-name=Desktop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomomaggiore/FoodCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giacomomaggiore/FoodCalculator/issues"
+  },
+  "homepage": "https://github.com/giacomomaggiore/FoodCalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
